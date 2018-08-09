@@ -23,3 +23,8 @@ Kubernetes Meetup Tokyo(以下、勉強会)は、Kubernetesユーザが集まり
 勉強会スタッフは、ハラスメントを経験した人が、勉強会期間中安全かつ安心と感じられるように、参加者がホテル/会場の警備や近隣の警察に連絡すること、付き添い者の提供、およびその他の支援を行います。私達にとってあなたが参加しているのは大事なことなのです。
 
 この行動規範は勉強会の会期中や会場のみならず、ワークショップなどの関連イベント、勉強会に関連したソーシャルイベントにも適用されます。
+
+---
+
+Original source: http://ja.confcodeofconduct.com/  
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
