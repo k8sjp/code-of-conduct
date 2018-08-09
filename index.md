@@ -18,7 +18,7 @@ Kubernetes Meetup Tokyo(以下、勉強会)は、Kubernetesユーザが集まり
 
 参加者がハラスメント行為に属するふるまいをした場合は、勉強会主催者は適切と判断した範囲で、当該行為を行った者に対する警告や、参加費を返還せずに勉強会から追放処分とするなどを含むいかなる行動も取ります。
 
-もしあなたがハラスメントに遭った場合、他の人がハラスメントに遭っている場合、あるいは他に気になることがあった時は、すぐに勉強会スタッフの誰かに連絡していただくようお願いします。勉強会スタッフに直接連絡ができない場合はk8sjp-admin@googlegroups.comへメールをお願いします。
+もしあなたがハラスメントに遭った場合、他の人がハラスメントに遭っている場合、あるいは他に気になることがあった時は、すぐに勉強会スタッフの誰かに連絡していただくようお願いします。勉強会スタッフに直接連絡ができない場合は[k8sjp-admin@googlegroups.com](<mailto:k8sjp-admin@googlegroups.com>)へメールをお願いします。
 
 勉強会スタッフは、ハラスメントを経験した人が、勉強会期間中安全かつ安心と感じられるように、参加者がホテル/会場の警備や近隣の警察に連絡すること、付き添い者の提供、およびその他の支援を行います。私達にとってあなたが参加しているのは大事なことなのです。
 
@@ -26,5 +26,5 @@ Kubernetes Meetup Tokyo(以下、勉強会)は、Kubernetesユーザが集まり
 
 ---
 
-Original source: http://ja.confcodeofconduct.com/  
+Original source: [http://ja.confcodeofconduct.com/](http://ja.confcodeofconduct.com/)  
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
