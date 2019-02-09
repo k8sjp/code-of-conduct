@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
 title: Kubernetes Meetup Tokyo 行動規範
+description: Kubernetes Meetup Tokyo Code of Conduct
+
+exclude:
+- Dockerfile
+- Makefile
+- Gemfile*
