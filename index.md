@@ -32,7 +32,7 @@ Kubernetes Meetup Tokyo(以下、勉強会)は、Kubernetesユーザが集まり
 
 Kubernetes Meetup Tokyo (hereafter referred to as the meetup) is a study event
 and community for users of Kubernetes and Kubernetes related software to
-exchange information and ideas. Though the meetup, it is our goal to provide a
+exchange information and ideas. Through the meetup, it is our goal to provide a
 space where Kubernetes users can meet with each other, exchange information and
 ideas relevant to their specific fields, make friends, and increase business
 activity.
