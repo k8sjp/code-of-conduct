@@ -38,7 +38,7 @@ ideas relevant to their specific fields, make friends, and increase business
 activity.
 
 In order to achieve this goal, we require all members of the community and
-attees of meetup events to agree to the policy outlined in this document. In
+attendees of meetup events to agree to the policy outlined in this document. In
 order to maintain a safe environment, we request the cooperation of all
 members.
 
